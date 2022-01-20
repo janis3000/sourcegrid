@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 
+using Range = SourceGrid.Range;
+
 namespace QuadTreeLib
 {
 	/// <summary>
@@ -22,14 +24,14 @@ namespace QuadTreeLib
 		/// </summary>
 		QuadTreeNode m_root;
 
-		/// <summary>
-		/// The bounds of this QuadTree
-		/// </summary>
-		Range m_rectangle;
+        /// <summary>
+        /// The bounds of this QuadTree
+        /// </summary>
+        SourceGrid.Range m_rectangle;
 
 		public IQuadTreeNodeDivider QuadTreeNodeDivider {get;set;}
 		
-		public Range Bounds {
+		public SourceGrid.Range Bounds {
 			get { return m_rectangle; }
 		}
 		
@@ -43,7 +45,7 @@ namespace QuadTreeLib
 		/// <summary>
 		/// Returns all the content 
 		/// </summary>
-		public List<Range> Contents {
+		public List<SourceGrid.Range> Contents {
 			get 
 			{ 
 				return this.Query(this.Bounds);

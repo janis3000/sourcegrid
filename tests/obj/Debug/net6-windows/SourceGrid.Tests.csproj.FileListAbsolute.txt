@@ -1,0 +1,11 @@
+C:\dev\sourcegrid\Out\Test\Debug\net6-windows\SourceGrid.Tests.deps.json
+C:\dev\sourcegrid\Out\Test\Debug\net6-windows\SourceGrid.Tests.dll
+C:\dev\sourcegrid\Out\Test\Debug\net6-windows\ref\SourceGrid.Tests.dll
+C:\dev\sourcegrid\Out\Test\Debug\net6-windows\SourceGrid.Tests.pdb
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.csproj.AssemblyReference.cache
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.csproj.CoreCompileInputs.cache
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.csproj.CopyComplete
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.dll
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\ref\SourceGrid.Tests.dll
+C:\dev\sourcegrid\tests\obj\Debug\net6-windows\SourceGrid.Tests.pdb
